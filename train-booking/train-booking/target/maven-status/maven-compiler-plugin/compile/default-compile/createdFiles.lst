@@ -1,0 +1,5 @@
+com\example\trainbooking\PassengerController.class
+com\example\trainbooking\PassengerRepository.class
+com\example\trainbooking\Passenger.class
+com\example\trainbooking\PassengerService.class
+com\example\trainbooking\TrainBookingApplication.class

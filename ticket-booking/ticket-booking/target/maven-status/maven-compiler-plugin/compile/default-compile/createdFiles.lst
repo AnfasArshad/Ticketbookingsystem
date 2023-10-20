@@ -1,0 +1,5 @@
+com\example\ticketbooking\Ticket.class
+com\example\ticketbooking\TicketController.class
+com\example\ticketbooking\TicketService.class
+com\example\ticketbooking\TicketBookingApplication.class
+com\example\ticketbooking\TicketRepository.class
